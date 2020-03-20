@@ -16,7 +16,7 @@ This is very interesting since when making budgets we can see the margin of our 
 The module always loads the margins as hidden, in the case that you want to see you have to uncheck the checkbox.
 To check and uncheck the checkbox only sales managers have access.
 
-You can download it on GitHub at the following link `https://github.com/esturao/ee_sale_margin <https://github.com/esturao/ee_sale_margin>`_.
+You can download it on GitHub at the following link `https://github.com/esturao/ee_esturao <https://github.com/esturao/ee_esturao>`_.
 
 `https://www.esturao.com/ee-sale-margin <https://www.esturao.com/ee-sale-margin>`_
 
@@ -24,15 +24,15 @@ You can download it on GitHub at the following link `https://github.com/esturao/
 In the following images you can see how it works.
 
 
-.. image:: static/description/ventas_checkbox.jpg
+.. image:: https://github.com/esturao/ee_esturao/blob/11.0/ee_sale_margin/static/description/ventas_checkbox.jpg?raw=true
    :alt: Checkbox in sales
    :target: https://www.esturao.com/ee-sale-margin
    
-.. image:: static/description/ventas_con_margen.jpg
+.. image:: https://github.com/esturao/ee_esturao/blob/11.0/ee_sale_margin/static/description/ventas_con_margen.jpg?raw=true
    :alt: Sales with margin
    :target: https://www.esturao.com/ee-sale-margin
    
-.. image:: static/description/ventas_sin_margen.jpg
+.. image:: https://github.com/esturao/ee_esturao/blob/11.0/ee_sale_margin/static/description/ventas_sin_margen.jpg?raw=true
    :alt: Sales without margin
    :target: https://www.esturao.com/ee-sale-margin
 
